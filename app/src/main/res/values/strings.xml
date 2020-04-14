@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiAutoCompleteTextView1</string>
+    <string name="mactvhint">Birden çok dil seçiniz</string>
+    <string name="btnKaydet">Seçilenleri Göster</string>
+</resources>
